@@ -1,1 +1,9 @@
-{"_default": {"1": {"email": "rprem058@gmail.com", "logged_in": true}, "2": {"email": "priyanshukumar5557@gmail.com", "logged_in": true}}}
+{"_default":
+  {"1": 
+    {"email": "rprem058@gmail.com", "logged_in": true}, 
+    "2": 
+    {"email": "priyanshukumar5557@gmail.com", "logged_in": true},
+    "3":
+    {"email": "dd7046@srmist.edu.in", "logged_in": true},
+  }
+}
